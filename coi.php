@@ -1,5 +1,5 @@
 <?php
-
+//
 function getPosts() {
     $oss = array('win', 'mac');
     $channels = array('stable', 'beta', 'dev', 'canary');
